@@ -1,2 +1,2 @@
-# Nlw Expert - 2024
+# Rocketseat NLW Expert - 2024
 ## Trilha Java
